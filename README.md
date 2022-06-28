@@ -1,1 +1,1 @@
-Anomaly detection using Faster-Rcnn
+Steel defects detection, using Faster-Rcnn
